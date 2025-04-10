@@ -5,14 +5,14 @@ import {
 } from 'react-native';
 import React from 'react';
 
-const HomeScreen = () => {
+const FavouritesScreen = () => {
   return (
     <View>
-      <Text>HomeScreen</Text>
+      <Text>FavouritesScreen</Text>
     </View>
   );
 };
 
 // const styles = StyleSheet.create({});
 
-export default HomeScreen;
+export default FavouritesScreen;
